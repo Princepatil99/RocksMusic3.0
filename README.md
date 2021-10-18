@@ -28,10 +28,19 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 <a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
 
+### Special Credits ❤️❤️
+- [Jankari Ki Duniya](https://github.com/jankarikiduniya): Dev Ulo
+- [Asad Ali](https://t.me/Dr_Asad_Ali): Dev Chutiya
+- [Harshit](https://t.me/HarshitSharma361): Support Bhai Ki Jan ❤️
+- [Dhiren](https://t.me/DaYuSH_Owner_Of_ROcKs) Support ❣️
+
+### Support & Updates ❤️❤️
+<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+    
+
 ## Features 🔥
 
 - Thumbnail Support
-- Playlist Support
 - Current playback support
 - Showing track names when skipping
 - Zero downtime, Fully Stable
@@ -107,13 +116,3 @@ If you donlt like to play in linked channel:
 - `.a` - approove someone to pm you
 - `.da` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
-
-### Special Credits ❤️❤️
-- [Jankari Ki Duniya](https://github.com/jankarikiduniya): Dev Ulo
-- [Asad Ali](https://t.me/Dr_Asad_Ali): Dev Chutiya
-- [Harshit](https://t.me/HarshitSharma361): Support Bhai Ki Jan ❤️
-- [Dhiren](https://t.me/DaYuSH_Owner_Of_ROcKs) Support ❣️
-
-### Support & Updates ❤️❤️
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/jankarikiduniya"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-    
