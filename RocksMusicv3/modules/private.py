@@ -9,14 +9,14 @@ import logging
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
-from RocksMusicv4.config import (
+from RocksMusicv3.config import (
     BOT_USERNAME,
     PROJECT_NAME,
     SOURCE_CODE,
     SUPPORT_GROUP,
     UPDATES_CHANNEL,
 )
-from RocksMusicv4.modules.msg import Messages as tr
+from RocksMusicv3.modules.msg import Messages as tr
 
 logging.basicConfig(level=logging.INFO)
 
