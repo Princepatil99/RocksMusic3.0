@@ -7,8 +7,8 @@ from typing import List
 
 from pyrogram.types import Chat
 
-from VCPlayBot.function.admins import get as gett
-from VCPlayBot.function.admins import set
+from RocksMusicv3.function.admins import get as gett
+from RocksMusicv3.function.admins import set
 
 
 async def get_administrators(chat: Chat) -> List[int]:
