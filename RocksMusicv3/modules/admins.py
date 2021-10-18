@@ -87,17 +87,15 @@ async def skip(_, message: Message):
         await message.reply_text("❗ Pᴇʜʟᴇʏ Sᴏɴɢ Pʟᴀʏ Kᴇʀ Lᴏ Nɪᴋᴀᴍᴇʏ...👉!")
     else:
         queues.task_done(chat_id)
+
         if queues.is_empty(chat_id):
-            await callsmusic.stop(chat_id)
+            callsmusic.pytgcalls.leave_group_call(chat_id)
         else:
-            await callsmusic.set_stream(
-                chat_id, 
-                queues.get(chat_id)["file_path"]
-            )
+            callsmusic.pytgcalls.change_stream(chat_id, queues.get(chat_id)["file"])
 
     qeue = que.get(chat_id)
     if qeue:
-        skip = qeue.pop(0)
+        qeue.pop(0)
     if not qeue:
         return
     await message.reply_text(f"- Sᴋɪᴘᴘᴇᴅ...😉 **{skip[0]}**\n- Nᴏᴡ Pʟᴀʏɪɴɢ...👉 **{qeue[0][0]}**")
