@@ -15,7 +15,7 @@
   ],        
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string or @Pyrogram_String_Bot",
+      "description": "Pyrogram session string @Pyrogram_String_Bot",
       "required": true
     },
     "BOT_TOKEN": {
@@ -28,7 +28,7 @@
     },
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "SUPPORT_GROUP": {
@@ -39,7 +39,7 @@
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
       "required": false,
-      "value": "RocksMusicv4"
+      "value": "RocksMusicv3"
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant Username without @.",
@@ -48,7 +48,7 @@
     "ARQ_API_KEY": {
       "description": "Get from @ARQRobot.",
       "required": false,
-      "value": ""
+      "value": "PFZEBA-BWUEDM-SLDEEZ-FCFQZU-ARQ"
     },    
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
@@ -80,7 +80,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
-      "value": "10"
+      "value": "60"
     }
   }
 }
